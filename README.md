@@ -178,17 +178,13 @@
       alt="VScode"
     />
   </a>
-<p>
     <img     src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
       alt="Pycharm"
     />
-</p>
-<p>
     <img
 src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
       alt="AndroidStudio"
     />
-</p>
  </p>
 
  

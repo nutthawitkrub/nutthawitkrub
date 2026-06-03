@@ -222,22 +222,13 @@
  <a>
     <img src="https://img.shields.io/badge/totopichayasuksa-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
   </a>
- <a href="https://www.instagram.com/nutthaweed/"target="_blank">
+ <a href="https://www.instagram.com/nutthawitkrub/"target="_blank">
     <img src="https://img.shields.io/badge/nutthaweed-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
   </a>
  <a href="https://discord.gg/VvmSBQNqg7"target="_blank">
     <img src="https://img.shields.io/badge/Krungtepian-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-  </a>
- <a href="https://open.spotify.com/playlist/46l7lpyZfyum9G0dHuc4w7"target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
- <a href="https://mywebsite-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/MyWebsite-%23000000.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="MyownWebsite"/>
-  </a>
+ </a>
   <a href="https://blitzong-nutthaweed.vercel.app/"target="_blank">
     <img src="https://img.shields.io/badge/Blitzong-%23430098.svg?style=for-the-badge&logo=github&logoColor=white" alt="Blitzong"/>
-  </a>
- <a href="https://watchamove-lpdps3wr6-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/Watchamove-%2302569B.svg?style=for-the-badge&logo=github&logoColor=white" alt="Watchamove"/>
   </a>
  </p>

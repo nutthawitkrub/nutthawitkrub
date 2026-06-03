@@ -1,4 +1,4 @@
-<h1 align="center">🎉Hello, I'm Nutthawot Morkkaew🎉</h1>
+<h1 align="center">🎉Hello, I'm Nutthawit Morkkaew🎉</h1>
 <h2 align="center">💻I'm KMUTNB student and i'm internship at YU food co .ltd </h2>
 <p align="center">
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center" display="flex">
@@ -174,24 +174,21 @@
  <b> 📝 Used IDE/Editor</b>
  <p align="center">
   <a href="https://code.visualstudio.com/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    <img    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
       alt="VScode"
     />
   </a>
-
-  <a href="https://www.jetbrains.com/pycharm/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
+<p>
+    <img     src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
       alt="Pycharm"
     />
-  </a>
-  <a href="https://developer.android.com/studio?gclid=CjwKCAjwoduRBhA4EiwACL5RP0Lncj0lqdPX2Qzay2ONwbSPqCu0B4sCJk4hpUSNiCJtG-9UrH0G-BoCxRcQAvD_BwE&gclsrc=aw.ds"target="_blank">
+</p>
+<p>
     <img
-      src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
+src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
       alt="AndroidStudio"
     />
-  </a>
+</p>
  </p>
 
  

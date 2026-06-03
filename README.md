@@ -179,46 +179,11 @@
       alt="VScode"
     />
   </a>
-   <a href="https://atom.io/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"
-      alt="atom"
-    />
-  </a>
-   <a href="https://visualstudio.microsoft.com/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"
-      alt="VS"
-    />
-  </a>
-   <a href="https://www.eclipse.org/downloads/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"
-      alt="Eclispe"
-    />
-  </a>
-  <a href="https://www.sublimetext.com/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"
-      alt="SublimeText"
-    />
-  </a>
-  <a href="https://neovim.io/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
-      alt="Neovim"
-    />
-  </a>
+
   <a href="https://www.jetbrains.com/pycharm/"target="_blank">
     <img
       src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
       alt="Pycharm"
-    />
-  </a>
-  <a href="https://www.jetbrains.com/idea/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-      alt="IntelliJIdea"
     />
   </a>
   <a href="https://developer.android.com/studio?gclid=CjwKCAjwoduRBhA4EiwACL5RP0Lncj0lqdPX2Qzay2ONwbSPqCu0B4sCJk4hpUSNiCJtG-9UrH0G-BoCxRcQAvD_BwE&gclsrc=aw.ds"target="_blank">
@@ -236,12 +201,6 @@
     <img
       src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Vercel"
-    />
-  </a>
-  <a href="https://dashboard.heroku.com/"target="_blank">
-    <img
-      src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="Heroku"
     />
   </a>
  

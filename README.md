@@ -216,7 +216,7 @@ src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badg
     <img src="https://img.shields.io/badge/totopichayasuksa-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
   </a>
  <a href="https://www.instagram.com/nutthawitkrub/"target="_blank">
-    <img src="https://img.shields.io/badge/nutthaweed-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
+    <img src="https://img.shields.io/badge/nutthawitkrub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
   </a>
  <a href="https://discord.gg/VvmSBQNqg7"target="_blank">
     <img src="https://img.shields.io/badge/Krungtepian-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>

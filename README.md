@@ -1,5 +1,5 @@
-<h1 align="center">🎉Hello, I'm Nutthaweed🎉</h1>
-<h2 align="center">💻I'm junior programmer at Suankularb Witthayalai Nonthaburi based in Thailand💻</h2>
+<h1 align="center">🎉Hello, I'm Nutthawot Morkkaew🎉</h1>
+<h2 align="center">💻I'm KMUTNB student and i'm internship at YU food co .ltd </h2>
 <p align="center">
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center" display="flex">
  </p>
@@ -12,24 +12,6 @@
     <img
       src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
       alt="javascript"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      alt="cplusplus"
-    />
-  </a>
- <a href="https://www.w3schools.com/cs/index.php" target="_blank">
-    <img
-      src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-      alt="csharp"
-    />
-  </a>
- <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">
-    <img
-      src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"
     />
   </a>
   <a href="https://www.python.org" target="_blank">
@@ -66,30 +48,6 @@
     <img
       src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="dart"
-    />
-    </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"
-      alt="rust"
-    />
-    </a>
- <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
-      alt="ruby"
-    />
-    </a>
- <a href="https://kotlinlang.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"
-      alt="kotlin"
-    />
-    </a>
- <a href="https://www.r-project.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"
-      alt="r"
     />
     </a>
 </p>
@@ -286,20 +244,6 @@
       alt="Heroku"
     />
   </a>
- </p>
- 
- 
-## 🐱‍💻 My GitHub Stats
-<b> 📄 Github Stats</b>
-  <p align="center" display="flex">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact&no-frame=true" alt="Nutthaweed" env="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" />
-    &nbsp;
-    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en&no-frame=true" alt="Nutthaweed" env="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"/>
- </p>
- 
- 
- <b> 🏆 Github Trophy</b>
- <p align="center" display="flex" position="fixed"><img src="https://github-profile-trophy.vercel.app/?username=Nutthaweed&theme=radical&no-bg=true" alt=trophy/></p>
  
 ## 👫 Hobbies
     
